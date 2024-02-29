@@ -1,0 +1,18 @@
+# dependencies
+node_modules
+
+# testing
+/coverage
+example.cy.ts
+videos
+screenshots
+1-getting-started
+2-advanced-examples
+
+# misc
+.DS_Store
+*.pem
+.yarn
+
+# tsconfig
+*.tsbuildinfo
